@@ -7,5 +7,5 @@ This project aims to provide a simple and friendly interface to ask Google's Gem
 
 ## getting started
 
-1. set `GEMINI_API_KEY` envvar
+1. set `GEMINI_API_KEY` envvar (**Make sure to `export`**)
 2. run `go run main.go`
